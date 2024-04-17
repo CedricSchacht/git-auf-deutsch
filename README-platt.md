@@ -8,7 +8,7 @@ Git up platt helpen da!
 
 Da folgen twee Tabell mit Vörslagen för den dagelk Gebruuk.
 
-| Verb        | Derzeit wird bruken | Vörslag               |
+| Verb        | Nu wart brukt | Vörslag               |
 |-------------|---------------------|-----------------------|
 | init        | initten             | updoon                |
 | add         | adden               | daarandoon            |
@@ -23,9 +23,9 @@ Da folgen twee Tabell mit Vörslagen för den dagelk Gebruuk.
 | diff        | diffen              | verglieken            |
 | merge       | mergen              | tosamenbinnen         |
 | fork        | forken              | ofsplieten            |
-| stash       | stashen             | versteken             |
+| stash       | stashen             | verkrupen             |
 | tag         | taggen              | markeren              |
-| cherry-pick | cherry-picken       | Rosinen bicken        |
+| cherry-pick | cherry-picken       | Sienbohn bicken       |
 | checkout    | checkouten          | nehmen                |
 
 | Substantiv    | Derzeit wird bruken | Vörslag               |
@@ -37,7 +37,7 @@ Da folgen twee Tabell mit Vörslagen för den dagelk Gebruuk.
 | blame         | blame               | Dööskopp wrögen       |
 | bitbucket     | bitbucket           | Mahlwark Emmer        |
 | repository    | repo                | Lagerhuus             |
-| branch        | branch              | Twilg                 |
+| branch        | branch              | Tack                  |
 | commit        | commit              | Stüren                |
 | log           | log                 | Daagboken             |
 | pull request  | pull request        | hebben will           |
@@ -46,29 +46,29 @@ Da folgen twee Tabell mit Vörslagen för den dagelk Gebruuk.
 | status        | status              | Tostand               |
 | tag           | tag                 | Marke                 |
 | origin        | origin              | Begünn                |
-| master        | master              | Meister               |
+| master        | master              | Baas                  |
 
 ## Bispillen
 
-    - Kannst de Twieg, den ik even umschrieven hab, torren un zur Dööskopp-Bude schuven?
+    - Kannst de Tack, den ik even umschrieven hebb, torren un zur Dööskopp-Bude schuven?
     
-    - Daför heb ik een neue Lagerhuus opmaken, mook die nach un nimm dir den Verlooptwieg.
+    - Daför heb ik een nee Lagerhuus opmaken, mook de na un nimm di de Verlooptwieg.
     
-    - Nee, knuddel dat gliek to Meister im Begünn!
+    - Nee, knuddel dat gliek to Baas im Begünn!
        
-    - Du kannst in de Dööskopp wrögen schauen, de dat annern hat.
+    - Du kannst in de Dööskopp wrögen kieken, de dat annern hat.
 
-    - Ik hab even abgetwiegt un de Ännerungen ut mien Versteek övergeven.
+    - Ik hebb even abgetwiegt un de Ännerungen ut mien Versteek övergeven.
     
     - Mak en Andrag tohoop brengen, so du mit de Verenigung klaarworden bist!
     
-    - An allerbest wi bicken de Rosinen up de Meistertwieg herut.
+    - An allerbest wi bicken de Sienbohnen up de Baastack rut.
     
     - Gabel up Dööskopp-Bude!
 
-## Dööskopp auf Platt anwennen
+## Dööskopp op Platt anwennen
 
-Well de nahste Stapp moken will, hier een Anwies, die Dööskopp auf Platt in dien Konsole brengen. Da Dööskopp keen Umlaute tolaten, moten wi in de Befehlen leider daarup verzichten. Nimm de Ännerungen in dien ~/.gitconfig vör:
+Well de nahste Stapp moken will, hier een Anwies, de Dööskopp up Platt in dien Konsole brengen. Da Dööskopp keen Umlaute tolaten, moten wi in de Befehlen leider daarup verzichten. Nimm de Ännerungen in dien ~/.gitconfig vör:
 
     git config --global alias.updoon init
     git config --global alias.namaken clone
@@ -86,6 +86,6 @@ Well de nahste Stapp moken will, hier een Anwies, die Dööskopp auf Platt in di
     git config --global alias.daagboken log
     git config --global alias.tostand status
 
-Un pack de anner Rieg zu diener ~/.bashrc (of wie dat up dien Betriebssystem benömen):
+Un pack de anner Rieg to diener ~/.bashrc (of wie dat up dien Betriebssystem benömen):
 
     alias doeoeskopp=git
